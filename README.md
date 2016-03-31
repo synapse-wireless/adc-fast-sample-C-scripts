@@ -7,3 +7,5 @@ A simple application to read from ADC0 multiple times in rapid succession and av
 ## License
 
 Copyright © 2016 [Synapse Wireless](http://www.synapse-wireless.com/), licensed under the [Apache License v2.0](LICENSE.md).
+
+<!-- meta-tags: vvv-atmega, vvv-adc, vvv-python, vvv-c, vvv-snappy, vvv-example -->
